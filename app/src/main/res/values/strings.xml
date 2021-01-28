@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">lessonOneHW</string>
+    <string name="_1_st_homework">1-st homework</string>
+    <string name="EnterText">Введите текст</string>
+    <string name="Button">КНОПКА</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="off">выключить</string>
+    <string name="on">включить</string>
 </resources>
